@@ -10,7 +10,7 @@ const Header: React.FC = () => {
     <header className="w-full bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
         <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-          K6 EKONOMI
+          K6 EKONOMI X-2
         </h2>
 
         <nav className="hidden sm:flex space-x-6 text-gray-600 font-medium">

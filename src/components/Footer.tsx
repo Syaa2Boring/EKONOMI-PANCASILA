@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-4">
         <div className="mb-4 md:mb-0">
           <h1 className="text-xl font-bold">Ekonomi Pancasila</h1>
-          <p className="text-gray-400 text-sm">Dibuat oleh Kelompok 6 Ekonomi Kelas X-2</p>
+          <p className="text-gray-400 text-sm">Dibuat oleh Kelompok 6 Ekonomi dari Kelas X-2.</p>
         </div>
 
         <div className="flex space-x-6">
